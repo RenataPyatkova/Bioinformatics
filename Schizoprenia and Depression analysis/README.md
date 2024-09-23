@@ -1,3 +1,5 @@
+**First take a look at Article1 and Lipids, then proceed to Article2, there you will find comparison and summary of results!**
+
 The **aim** of this work was to determine the presence or absence of correlation between transcriptomic and
 lipid profiles in patients with schizophrenia and depression, as well as to investigate the
 functional association between gene expression and lipids.
