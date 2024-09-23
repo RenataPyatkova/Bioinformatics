@@ -9,7 +9,7 @@ The following objectives were formulated to achieve the goal:
 - Analyzing data on the expression level of genes described in previously
 published articles (two articles, each alaysis in a separate notebook)
 - Analyzing data on lipid representation in the studied
-brain regions (you can find it in "Lipids")
+brain regions (this part of research is not published due to confidentiality issues)
 - Integration of transcriptome and lipidome results
 - Functional annotation of results
   
